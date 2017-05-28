@@ -1,0 +1,9 @@
+c:\users\desjatnik\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.exe.config
+c:\users\desjatnik\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.exe
+c:\users\desjatnik\documents\visual studio 2015\Projects\Bot\Bot\bin\Debug\Bot.pdb
+c:\users\desjatnik\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+c:\users\desjatnik\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.Properties.Resources.resources
+c:\users\desjatnik\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.csproj.GenerateResource.Cache
+c:\users\desjatnik\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.exe
+c:\users\desjatnik\documents\visual studio 2015\Projects\Bot\Bot\obj\Debug\Bot.pdb
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\obj\Debug\Bot.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Release\Bot.exe.config
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Release\Bot.exe
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\bin\Release\Bot.pdb
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\obj\Release\Bot.csprojResolveAssemblyReference.cache
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\obj\Release\Bot.youTuBote.resources
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\obj\Release\Bot.Properties.Resources.resources
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\obj\Release\Bot.csproj.GenerateResource.Cache
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\obj\Release\Bot.exe
+C:\Users\desjatnik\Documents\Visual Studio 2015\Projects\Bot\Bot\obj\Release\Bot.pdb
